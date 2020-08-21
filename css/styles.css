@@ -6,9 +6,6 @@ body {
     background-color: #ffc8c8;
     height: 200px;
     width: 200px;
-    display: inline-block;
-    position: relative;
-    right: 200px;
 }
 
 h1 {
@@ -19,16 +16,16 @@ h1 {
     background-color: #ffe2e2;
     height: 200px;
     width: 200px;
-    display: inline-block;
-    position: relative;
-    right: 200px;
+    position: absolute;
+    top: 200px;
+    left: 200px;
 }
 
 .top-container {
     background-color: #f7f2e7;
     height: 200px;
     width: 200px;
-    display: inline-block;
-    position: relative;
+    position: absolute;
+    top: 400px;
     left: 400px;
 }
