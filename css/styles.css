@@ -15,16 +15,25 @@ body {
 }
 
 .cook {
-    width: 200px;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
 
 .dance {
-    width: 200px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
 
 .footer-link {
     color: #e97171;
 }
+
+
+/* .first-para {
+    clear: left;
+} */
 
 h1 {
     margin: 50px auto 0 auto;
@@ -47,12 +56,24 @@ h3 {
 }
 
 .prome {
-    width: 200px;
+    width: 250px;
 }
 
 p {
     font-size: 15px;
 }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+/* .second-para {
+    clear: right;
+} */
 
 .top-container {
     background-color: #f7f2e7;
